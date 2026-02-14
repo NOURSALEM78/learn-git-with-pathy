@@ -3,3 +3,4 @@
 - كيف نضيف ملفات للتتبع
 - كيف نعمل commit و push
 - الفرق بين master/main و origin
+- تعلمت كيف أعمل commit و push
